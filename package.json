@@ -1,0 +1,22 @@
+{
+  "name": "test-repo-micro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanu7021/test-repo-micro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanu7021/test-repo-micro/issues"
+  },
+  "homepage": "https://github.com/wanu7021/test-repo-micro#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.34"
+  }
+}
