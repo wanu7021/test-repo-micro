@@ -1,5 +1,5 @@
 # test-repo-micro
-Una descript
+Una description
 
 ---
 ### titulo2 ###
